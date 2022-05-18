@@ -1,2 +1,1 @@
-# rm .Rprofile
-Rscript binder/install.R
+R script binder/install.R
