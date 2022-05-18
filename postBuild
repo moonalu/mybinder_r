@@ -1,1 +1,1 @@
-R -m irkernel install --user --name=moonalu
+conda -r irkernel install --user --name=moonalu
