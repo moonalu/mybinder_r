@@ -1,1 +1,1 @@
-conda -r irkernel install --user --name=moonalu
+Rscript binder/more_installs.R
