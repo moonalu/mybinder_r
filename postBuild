@@ -1,4 +1,2 @@
-rm -rf demofiles
-rm -rf notebooks
-rm -rf narrative
-rm -rf slides
+rm .Rprofile
+Rscript binder/install.R
