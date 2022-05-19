@@ -1,1 +1,8 @@
+install.packages("ggplot2")
+install.packages("dplyr")
+install.packages("tidyr")
 install.packages("readr")
+install.packages("purrr")
+install.packages("tibble")
+install.packages("stringr")
+install.packages("forcats")
