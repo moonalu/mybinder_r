@@ -1,1 +1,4 @@
-R script binder/install.R
+rm -rf demofiles
+rm -rf notebooks
+rm -rf narrative
+rm -rf slides
