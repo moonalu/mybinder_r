@@ -1,3 +1,2 @@
 dependencies:
-  - r-base>=1
-  - r-irkernel>=1
+- r-irkernel>=1
