@@ -1,5 +1,4 @@
 channels:
   - conda-forge
 dependencies:
-  - r-base>=4
   - r-irkernel>=1
